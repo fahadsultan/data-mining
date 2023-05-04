@@ -1,14 +1,23 @@
 ---
 layout: home
-title: Just the Class
-nav_exclude: true
+title: Home
+nav_exclude: false
+nav_order: 0
 permalink: /:path/
 seo:
   type: Course
   name: Just the Class
 ---
 
-# Just the Class
+# Data Mining (Fall 2023)
+
+<br/>
+![Frank Stella, Harran II](https://whitneymedia.org/assets/image/698592/large_frank-stella_harran-ii_1967_silo_v1.jpg)
+<p style="text-align: right;color:gray;font-size: 1rem;"><a href="https://en.wikipedia.org/wiki/Frank_Stella">Frank Stella <i>Harran II</i>, 1967</a></p>
+## Annoucements
+
+{: .deadline }
+Assignment 1 due _September 1st_
 
 Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
 

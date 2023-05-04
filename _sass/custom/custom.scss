@@ -56,3 +56,32 @@ summary {
     }
   }
 }
+
+.site-title.lh-tight{
+  padding-left: 5rem;
+}
+
+
+.side-bar{
+/*  background-color: #F8F6F0;*/
+  background-color: #FFFFFF;
+}
+
+h1 {
+  color:#000000;
+  font-weight: normal;
+}
+
+a {
+  color: #000000;
+}
+
+a:hover {
+  color: #DE3163;
+}
+
+a:active {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}

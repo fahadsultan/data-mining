@@ -20,6 +20,7 @@ author: Syed Fahad Sultan
 baseurl: '/data-mining' # the subpath of your site, e.g. /blog
 url: 'http://www.fahadsultan.com' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
+logo: "assets/images/furman_cs.png"
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.5.1
@@ -78,3 +79,9 @@ callouts:
   deadline:
     title: Deadline
     color: red
+  good:
+    title: Welcome
+    color: green
+  notice:
+    title: Notice
+    color: yellow

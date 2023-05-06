@@ -58,7 +58,9 @@ summary {
 }
 
 .site-title.lh-tight{
-  padding-left: 5rem;
+  // padding-left: 5rem;
+  padding-left: 3rem;
+  // padding-top: 1rem;
 }
 
 
@@ -84,4 +86,8 @@ a:active {
   color: pink;
   background-color: transparent;
   text-decoration: none;
+}
+
+h2{
+  margin-top: 0;
 }

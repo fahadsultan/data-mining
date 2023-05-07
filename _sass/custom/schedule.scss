@@ -92,11 +92,15 @@
       @extend .fs-2;
     }
 
-    &.lecture {
+    &.busy {
       background-color: $grey-dk-000;
     }
 
-    &.section {
+    &.lecture {
+      background-color: $purple-000;
+    }
+
+    &.lab {
       background-color: $purple-000;
     }
 

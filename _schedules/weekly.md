@@ -1,5 +1,6 @@
 ---
 timeline:
+  - '8:30 AM'
   - '9:00 AM'
   - '9:30 AM'
   - '10:00 AM'
@@ -20,47 +21,33 @@ timeline:
   - '5:30 PM'
 schedule:
   - name: Monday
+  - name: Tuesday
     events:
       - name: Lecture
-        start: 9:30 AM
-        end: 10:30 AM
-        location: 150 Wheeler
-      - name: Section
-        start: 11:30 AM
-        end: 12:30 PM
-        location: 310 Soda
-      - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
-        location: 271 Soda
-  - name: Tuesday
+        start: 8:30 AM
+        end: 9:50 AM
+        location: Riley Hall 106
+      - name: Busy
+        start: 2:30 PM
+        end: 3:30 PM
   - name: Wednesday
     events:
-      - name: Lecture
-        start: 9:30 AM
-        end: 10:30 AM
-        location: 150 Wheeler
-      - name: Section
-        start: 11:30 AM
-        end: 12:30 PM
-        location: 310 Soda
       - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
-        location: 271 Soda
+        start: 8:30 AM
+        end: 2:30 PM
+        location: Riley Hall 201
+      - name: Lab
+        start: 2:30 PM
+        end: 4:30 PM
+        location: Riley Hall 201
   - name: Thursday
-  - name: Friday
     events:
       - name: Lecture
-        start: 9:30 AM
-        end: 10:30 AM
-        location: 150 Wheeler
-      - name: Section
-        start: 11:30 AM
-        end: 12:30 PM
-        location: 310 Soda
-      - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
-        location: 271 Soda
+        start: 8:30 AM
+        end: 9:50 AM
+        location: Riley Hall 106
+      - name: Busy
+        start: 2:30 PM
+        end: 3:30 PM
+  - name: Friday
 ---

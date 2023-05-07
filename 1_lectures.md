@@ -150,7 +150,7 @@ nav_order: 1
     <td><center></center></td>
   </tr>
   <tr>
-    <td></td><td colspan="7"><i><br/>Clustering<br/><br/></i></td>
+    <td colspan="6"><i><center>Ethics and Algorithmic Bias</center></i></td>
   </tr>
   <tr>
     <!-- <td>13</td> -->
@@ -172,21 +172,21 @@ nav_order: 1
   </tr>
   <tr>
     <!-- <td>15</td> -->
+    <td>Presentation</td>
     <td></td>
-    <td style=""><center></center></td>
-    <td><center></center></td>
-    <td ></td>
-    <td ></td>
-    <td><center></center></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
     <!-- <td>16</td> -->
-    <td>Ethics</td>
-    <td style=""><center></center></td>
-    <td><center></center></td>
-    <td ></td>
-    <td ></td>
-    <td><center></center></td>
+    <td>Presentation</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
   

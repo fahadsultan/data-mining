@@ -2,6 +2,7 @@
 layout: page
 title: Textbook
 description: A listing of all the course staff members.
+nav_order: 6
 ---
 
 ### Textbook

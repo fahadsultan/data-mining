@@ -3,7 +3,7 @@ layout: page
 title: Syllabus
 description: >-
     Course policies and information.
-nav_order: 10
+nav_order: 5
 has_children: true
 ---
 
@@ -20,12 +20,7 @@ has_children: true
 
 ## Course Description
 
-This is an introductory course that aims to teach the fundamentals of Data Mining, focusing broadly on:
-
-* Programming for Data Science
-* Unsupervised Learning
-* Supervised Learning
-* Ethical considerations in Data Mining
+This course focuses on the algorithms and computing tools fundamental to data science: the process of extracting accurate and generalizable models from data via machine learning. Topics will include the prediction of outcomes, the discovery of associations, and the identification of similar groups. Students will complete a project related to human behavior, starting with data collection and cleaning, culminating in the presentation of a model and visualization of results.
 
 ## Course Goals
 <!-- 

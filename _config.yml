@@ -85,3 +85,5 @@ callouts:
   notice:
     title: Notice
     color: yellow
+  green:
+    color: green

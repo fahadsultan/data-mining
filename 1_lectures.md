@@ -15,8 +15,8 @@ nav_order: 1
   <tr>
     <!-- <td>0</td> -->
     <td><b>Introduction</b></td>
-    <td style=""><center></center></td>
-    <td><center></center></td>
+    <td style=""></td>
+    <td></td>
     <td ></td>
     <td ></td>
     <td><center></center></td>
@@ -27,10 +27,10 @@ nav_order: 1
   <tr>
     <!-- <td>1</td> -->
     <td><b>Data I/O</b></td>
-    <td style=""><center></center></td>
     <td><center></center></td>
-    <td ></td>
-    <td ></td>
+    <td>Pandas</td>
+    <td>Distributions</td>
+    <td></td>
     <td><center></center></td>
   </tr>
   <tr>
@@ -46,7 +46,7 @@ nav_order: 1
     <!-- <td>3</td> -->
     <td><b>Data Cleaning</b></td>
     <td style=""><center></center></td>
-    <td><center></center></td>
+    <td>Normalization <center></center></td>
     <td >Missing Values</td>
     <td ></td>
     <td><center></center></td>
@@ -56,19 +56,14 @@ nav_order: 1
     <!-- <td>4</td> -->
     <td><b>Data Collection</b></td>
     <td style=""><center></center></td>
-    <td><center></center></td>
-    <td ></td>
+    <td>APIs / XML</td>
+    <td>Web Scraping</td>
     <td ></td>
     <td><center></center></td>
   </tr>
-  <!-- <tr>
-    <td>Collecting Data</td>
-    <td style=""><center></center></td>
-    <td >Web Scraping</td>
-    <td >APIs</td>
-    <td><center></center></td>
-    <td><center></center></td>
-  </tr> -->
+  <tr>
+    <td colspan="6"><i>Exam 1</i></td>
+  </tr>
   <tr>
     <td colspan="6"><center><i>Unsupervised Learning</i></center></td>
   </tr>
@@ -108,6 +103,9 @@ nav_order: 1
     <td ></td>
     <td ></td>
     <td><center></center></td>
+  </tr>
+  <tr>
+    <td colspan="6"><i>Exam 2</i></td>
   </tr>
   <tr>
     <td colspan="6"><center><i>Supervised Learning</i></center></td>
@@ -150,6 +148,9 @@ nav_order: 1
     <td><center></center></td>
   </tr>
   <tr>
+    <td colspan="6"><i>Exam 3</i></td>
+  </tr>
+  <tr>
     <td colspan="6"><i><center>Ethics and Algorithmic Bias</center></i></td>
   </tr>
   <tr>
@@ -188,7 +189,8 @@ nav_order: 1
     <td></td>
     <td></td>
   </tr>
-</table>
+  <!-- <tr></tr> -->
+<!-- </table> -->
   
 
 <br/>

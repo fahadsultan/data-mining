@@ -6,11 +6,11 @@ description: >-
 parent: Syllabus
 ---
 
-<!-- <br/> -->
+<br/>
 
-# Academic Integrity:
+## Academic Integrity
 
-<!-- <br/> -->
+<br/>
 
 Academic Integrity standards are important to our Furman community and will be upheld in this class. Students should review the Academic Integrity Pledge posted in the classroom and resources available on [www.furman.edu/integrity](www.furman.edu/integrity). In this class, the grade penalty for an academic integrity violation is an F for the course. Academic Discipline procedures will be followed through the Office of the Academic Dean.
 
